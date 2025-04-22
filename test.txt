@@ -1,0 +1,9 @@
+amity university
+courses
+english
+french
+maths
+physics
+c
+python
+
